@@ -117,3 +117,4 @@
 * OPAVIVARÁ!
 * Helio Oiticica
 * NEON (inhabitable sculptures)
+* Vivian Suter (Argentine-Swiss painter)
