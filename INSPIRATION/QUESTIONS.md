@@ -73,7 +73,7 @@
 
  2. What role can living biological fabrication play in designing sustainable evolving Garments that can live multiple lives across physical and virtual worlds?
 
- 3. How e-textiles can design responsive environments that augment our understanding of space, performance, and identity?
+ 3. How do garments that sense and respond to their surroundings reshape our understanding of the body (skin) as a boundary?
 
  4. How can e-skins and wild tech generate new fashion bodies, where garments breathe, sense, and mutate?
 
@@ -81,16 +81,24 @@
 
  6. In what ways can touch, through augmented skins, serve as a language of connection in hybrid habitats?
 
- 7. What narratives emerge from mapping sensory feedback across physical and virtual environments?
+ 7. How might textiles become living mediators of touch between physical and virtual environments?
 
+ 8. What happens to our sense of self when the skin we wear is no longer fixed, but evolving, layered, and reactive?
+
+ 9. What would it be like to co-live with semi-autonomous garments?
+
+ 10. What kinds of ecosystems are formed when garments become living, growing, and decomposing agents?
+
+ 11. How do reactive garments negotiate what is shown, hidden, or revealed  
+        / How e-textiles might blur or amplify bodily presence—revealing mood, status, data—or conversely shielding it?
 ------------
 **Main Questions:**
 
-1. What role can living biological fabrication play in designing sustainable evolving Garments that can live multiple lives across physical and virtual worlds?
+1. What happens to our sense of self when the skin we wear is no longer fixed, but evolving, layered, and reactive?
 
-2. How can e-skins and wild tech generate new fashion bodies, where garments breathe, sense, and mutate?
+2. In which way can augmented skins change the way we use touch as a new language or performative/communicative tool in hybrid habitats?
 
-3. How do wearables shape the way we relate to the boundaries of our own skin?
+3. How e-textiles might blur or amplify bodily - negotiating what is shown, hidden, or revealed?
 
 
  <p>&nbsp;</p>
@@ -114,6 +122,11 @@
 * Helio Oiticica
 * NEON (inhabitable sculptures)
 * Vivian Suter (Argentine-Swiss painter)
+* J. Mayer H. Architects – Known for biomorphic, skin-like structures that blur urban, body, and form.
+* Iris van Herpen – Fuses couture and biomimicry, treating fashion as architectural skin.
+* Agi Haines – Explores biodesign and future prosthetics that integrate into body-architecture hybrids.
+* Felecia Davis – Works with computational textiles and architectural textiles that react and communicate.
+* Patricia Piccinini
 
  <p>&nbsp;</p>
 

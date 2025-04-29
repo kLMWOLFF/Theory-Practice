@@ -38,9 +38,16 @@ Zhu, Jingwen. â€œBiological Human-Computer Interaction for Electronic Textiles,â
 
 17. Jungnickel, Katrina, editor. "Wearable Utopias: Imagining, Inventing, and Inhabiting New Worlds." Cambridge: The MIT Press, 2024
 
+18. Filippello, Roberto; Parkins, Ilya "Fashon and Feeling: The affective Politics of Dress" Palgrave macmillan, 2023
 
+19. Parisi, David "Archaeologies of TOUCH" University of Minnesota Press, 2018
 
+20. Agi Haines (LOOK FOR PAPERS)
 
+21. Rachel Armstrong "Soft Living Architecture", 2018
+
+22. "Hylozoic Ground: Liminal Responsive Architecture", Philip Beesley; Edited by Pernilla Ohrstedt and Hayley Isaacs
+Riverside Architectural Press, 2011
 
 
 ---
