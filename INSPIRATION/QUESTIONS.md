@@ -69,32 +69,28 @@
  
  Write a list of questions and analyze it. Combine questions, try explaning some with more questions.
 
- 1. How can electronic skins and wearable systems create new forms of human-computer interaction that feel soft, emotional, and intuitive?
+ 1. What new forms of interaction can e-skins and wearable systems create, that feel soft, emotional, and intuitive?
 
- 2. What role can living biological fabrication play in designing sustainable electronic textiles and digital craft materials?
+ 2. What role can living biological fabrication play in designing sustainable evolving Garments that can live multiple lives across physical and virtual worlds?
 
- 3. How can wearable computing and sensors design responsive environments that augment the physical world and foster richer connections and experiences?
+ 3. How e-textiles can design responsive environments that augment our understanding of space, performance, and identity?
 
- 4. What is the potential of digital craft to create interfaces that weave skin and technology?
+ 4. How can e-skins and wild tech generate new fashion bodies, where garments breathe, sense, and mutate?
 
- 5. How might performances using wearable systems in dual-reality spaces redefine collective memory, social networks, and emotional mapping?
+ 5. What would it feel like to move through responsive environments that rewrite themselves in real time, controled by augmenting soft robotic skins?
 
- 6. How can electronic skins and wild tech generate new fashion bodies, where garments breathe, sense, and mutate across realities?
+ 6. In what ways can touch, through augmented skins, serve as a language of connection in hybrid habitats?
 
- 7. How might digital craft and bio-fabricated materials evolve enabling garments and objects to live second, third, or infinite lives across physical and virtual worlds?
-
- 8. How can dual-reality wearables create fragmented, poetic selves that exist simultaneously as mapped skins in physical spaces and emotional cartographies in virtual spaces?
-
- 9. What would it feel like to move through responsive environments that rewrite themselves in real time, controled by augmenting soft robotic skins?
+ 7. What narratives emerge from mapping sensory feedback across physical and virtual environments?
 
 ------------
 **Main Questions:**
 
-1. How might digital craft and bio-fabricated materials evolve enabling garments and objects to live second, third, or infinite lives across physical and virtual worlds?
+1. What role can living biological fabrication play in designing sustainable evolving Garments that can live multiple lives across physical and virtual worlds?
 
-2. What role can living biological fabrication play in designing sustainable electronic textiles and digital craft materials?
+2. How can e-skins and wild tech generate new fashion bodies, where garments breathe, sense, and mutate?
 
-3. How can wearable computing and sensors design responsive environments that augment the physical world and foster richer connections and experiences?
+3. How do wearables shape the way we relate to the boundaries of our own skin?
 
 
  <p>&nbsp;</p>
@@ -118,3 +114,27 @@
 * Helio Oiticica
 * NEON (inhabitable sculptures)
 * Vivian Suter (Argentine-Swiss painter)
+
+ <p>&nbsp;</p>
+
+
+### Framework: 
+
+**Research into Design**
+- History of textile
+- Aesthetic/Perceptual of skin (what to hide/what to show)
+- History of wardrobes
+- Bestiary of specific fashion moulage (sleeves/t-shirt) [Carthography]
+
+**Research through Design**
+- Prototyping a skin (runing tests on e-skins)
+- black box (INPUT>BLACKBOX>OUTPUT) > translucent box (skin)
+- Shape something that have the [singularity] of the creator
+
+- Reconstruction (archeology) of a skin/textile
+
+**Research on Design**
+- Propose new projects/designs
+- Speculative Design
+
+

@@ -111,7 +111,7 @@
 
 
    ## **Second Session**
- >28/4 - Benoit Renaudin
+ > 28/4 - Benoit Renaudin
 
  ### "How to Craft a Research" - 
 
@@ -137,12 +137,65 @@ METHOD folder:
                 jeu de cartes performatif: https://www.jeudecartesperformatif.com/
 
 Methodology: how you sell your ideas (what is your strategy to sell + to find the right angle that will atract people)
-> Choose something you will be happy to talk about/ Obsession/ issues
-> Choose methodologies that will make you happy/that are fun
+* Choose something you will be happy to talk about/ Obsession/ issues
+* Choose methodologies that will make you happy/that are fun
         > interviwers (people working on the field, users, researchers)
         > field research
 
 
-> Write the thesis as a speculatif story // Nacirema tribe: fictional group created by anthropologist Horace Miner in his 1956 article "Body Ritual Among the Nacirema" - create a deliberate sense of self-distancing in order to look at the research more objectively.
+* Write the thesis as a speculatif story // Nacirema tribe: fictional group created by anthropologist Horace Miner in his 1956 article "Body Ritual Among the Nacirema" - create a deliberate sense of self-distancing in order to look at the research more objectively.
 
-> Schematics
+* Use Schematics to sort/analyze reference literature
+
+
+> 29/4 - Felicien Goguey
+
+ ### Interviews - 
+
+ Prepare the questions to know exactly what you are looking for. Try to learn as much as you can before the interviews.
+ Frame 3-4 main topics and then develop 4-5 questions for each one. 
+
+                Frame 3 topics inside the research framework > Design the questions (from more general to more specific)
+
+ * Questions must be semi-open (no YES or NO answers)
+ * Anticipate some answers - to be in control of the focus of the interview
+ * Start with general questions to let people feel more confortable (small talk/easy to answer/build trust)
+ * Allways record (use AI to turns audio to text)
+ * After the interview, keep in touch (say you may come back with aditional questions)
+
+#### Research Through Design
+- You can use the research ON Design as a first step of your research - developments around your research question into the academic field/design practices
+- Identify your place inside your Framework
+- Borrow methodologies from other disciplines: technological studies, science, anthropology, digital humanities, psycologie.
+        Thinkering: mixing different methods (bricolage)
+
+> Book: Research in Art and Design, 1994 (Frayling, C.)
+
+**Research into Design**
+- History
+- Aesthetic/Perceptual Design
+- Body of Documents
+- Research into a variety of theoretical perspectives
+- Stabilish typology(Catalogue) in form/colors/functions- evolution (genetic of industrial objects/Philosophy of objects) - Family Tree of Objects - Bestiary
+- Carthography/ Technical drawings
+
+**Research through Design**
+- Material Research
+- Action-practice based research
+- Runing tests and making new objects
+- Remaking process/reconstruction (archeology)
+
+**Research on Design**
+- Propose new projects/designs
+- Speculative Design
+
+
+## **Third Session**
+ > 26/5 - Personal Presentation
+
+1. What is your [Intention]
+2. What are your [Research_Questions]
+3. What are your [References] in Bibliography/Design
+4. What is/are your [Methodology]
+5. First [Interview_Questions] - some interviews
+6. Field Research
