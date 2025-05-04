@@ -49,6 +49,8 @@ Zhu, Jingwen. â€œBiological Human-Computer Interaction for Electronic Textiles,â
 22. "Hylozoic Ground: Liminal Responsive Architecture", Philip Beesley; Edited by Pernilla Ohrstedt and Hayley Isaacs
 Riverside Architectural Press, 2011
 
+23. "Surface: Matters of Aesthetics, Materiality, and Media" Giuliana Bruno, 2014
+
 
 ---
 
