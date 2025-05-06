@@ -35,3 +35,5 @@
 
 - Relevance: Invites speculative futures where garments become rooms, and rooms become skins that breathe.
 
+
+"(...)if we can't describe excactly what it means, how can we start building it?" (Mismatch, p.18)
