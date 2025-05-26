@@ -103,33 +103,6 @@
 
  <p>&nbsp;</p>
 
- ### 3. Visual Reference:  https://miro.com/app/board/uXjVI9S3ql8=/
- 
- ### **References:**
-* Irmandy Wicaksono - (https://www.irmandyw.com/)
-* *"Exercices d'observation"*, Nicolas Nova
-* MIT Media LAb - (https://www.media.mit.edu/research/?filter=groups_centers)
-* Soft Technologies Lab at the National University of Singapore (stl@NUS) - https://www.softtechnologies.info/join-us
-* Neri Oxman - https://www.zestandcuriosity.com/2020/07/28/neri-oxman/
-* Honor Harger
-* ArtLab Lausanne (EPFL)
-* EPFL Pavillion
-* Delf
-* Loomia Lab (https://www.loomia.com/about)
-* NervouSystem Studio (https://n-e-r-v-o-u-s.com/projects/sets/kinematics-dress/)
-* IRIS VAN HERPEN
-* OPAVIVARÁ!
-* Helio Oiticica
-* NEON (inhabitable sculptures)
-* Vivian Suter (Argentine-Swiss painter)
-* J. Mayer H. Architects – Known for biomorphic, skin-like structures that blur urban, body, and form.
-* Iris van Herpen – Fuses couture and biomimicry, treating fashion as architectural skin.
-* Agi Haines – Explores biodesign and future prosthetics that integrate into body-architecture hybrids.
-* Felecia Davis – Works with computational textiles and architectural textiles that react and communicate.
-* Patricia Piccinini
-
- <p>&nbsp;</p>
-
 
 ### Framework: 
 
@@ -151,3 +124,4 @@
 - Speculative Design
 
 
+**HAPHEPHOBIA** = fear being touched

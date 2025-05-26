@@ -51,137 +51,15 @@ Riverside Architectural Press, 2011
 
 23. "Surface: Matters of Aesthetics, Materiality, and Media" Giuliana Bruno, 2014
 
+24. FILIPPELLO, Roberto and PARKINS, Ilya (eds.), 2023. Fashion and Feeling: The Affective Politics of Dress. 1st ed. 2023. Cham : Springer International Publishing AG. Palgrave Studies in Fashion and the Body Series. ISBN 978-3-031-19100-8. 
 
----
+25. PARISI, David, 2018. Archaeologies of touch: interfacing with haptics from electricity to computing. Minneapolis : University of Minnesota Press. ISBN 978-1-5179-0058-8. 
 
-### 1. **How the informed relations between physical, digital and biological dimensions are changing the design practice, as well as the sustainability paradigm** 
+26. O’ROURKE, Karen, 2016. Walking and mapping: artists as cartographers. First MIT Press paperback edition. Cambridge, Massachusetts London, England : The MIT Press. Leonardo. ISBN 978-0-262-52895-5. 
 
-**Author:**
-Rotondi, Carmen
+27. Atlas of the Senseable City, 2023. Carlo Ratti, Antoine Picon
 
-**Abstract:**
-In the “century of biotechnology”, a new form of “bio-digital industry” is emerging in which, thanks to increasingly sophisticated and digitized technologies that allow engineering and production on a biological quantum scale, it is possible to analyze and reproduce the generative, chemical, physical, and molecular processes underlying natural mechanisms. Inheriting methodologies and technologies from biological fabrication, bio-digital practices foster a new material-based biological paradigm that, bringing biomimicry to a material level, allows designers to observe substances and logic used by nature for assembling and structuring its materials, developing more sustainable and strategic ways for artifice manufacturing, as well as replicating complex, tailored, and emergent biological qualities. The paper aims to describe the new hybrid manufacturing techniques, demonstrating how the transition from form-based to material-based approaches also leads to the change of logic and conceptual frameworks in design practices, allowing greater alignment with the paradigms of biological growth. In particular, the focus is on informed relations between physical, digital, and biological dimensions, allowing interaction, development, and mutual empowerment between entities and disciplines belonging to them. Such a correlative strategy can help design to apply systemic thinking, from the scale of the material to that of the product and the process, paving the way to sustainable scenarios, not simply to reduce the human impact on the ecosystem but to enhance nature through original cooperation and integration forms between humans, biology, and machines.
+28. The City of Tomorrow: Sensors, Networks, Hackers, and the Future of Urban Life, 2016. Carlo Ratti, Matthew Claudel
 
-<p>&nbsp;</p>
+29. FRIESEN, Rebecca Fenton and VARDAR, Yasemin, 2024. Perceived Realism of Virtual Textures Rendered by a Vibrotactile Wearable Ring Display. IEEE Transactions on Haptics. Vol. 17, no. 2, pp. 216–226. DOI 10.1109/TOH.2023.3304899. 
 
----
-
-### 2. **Title** 
-
-**Author:**
-Rotondi, Carmen
-
-**Abstract:**
-In the 
-
-<p>&nbsp;</p>
-
----
-
-### 3. **Title** 
-
-**Author:**
-Rotondi, Carmen
-
-**Abstract:**
-In the 
-
-<p>&nbsp;</p>
-
----
-
-### 4. **Title** 
-
-**Author:**
-Rotondi, Carmen
-
-**Abstract:**
-In the 
-
-<p>&nbsp;</p>
-
----
-
-### 5. **Title** 
-
-**Author:**
-Rotondi, Carmen
-
-**Abstract:**
-In the 
-
-<p>&nbsp;</p>
-
----
-
-### 6. **Title** 
-
-**Author:**
-Rotondi, Carmen
-
-**Abstract:**
-In the 
-
-<p>&nbsp;</p>
-
----
-
-### 7. **Title** 
-
-**Author:**
-Rotondi, Carmen
-
-**Abstract:**
-In the 
-
-<p>&nbsp;</p>
-
----
-
-### 8. **Title** 
-
-**Author:**
-Rotondi, Carmen
-
-**Abstract:**
-In the 
-
-<p>&nbsp;</p>
-
----
-
-### 9. **Title** 
-
-**Author:**
-Rotondi, Carmen
-
-**Abstract:**
-In the 
-
-<p>&nbsp;</p>
-
----
-
-### 10. **Title** 
-
-**Author:**
-Rotondi, Carmen
-
-**Abstract:**
-In the 
-
-<p>&nbsp;</p>
-
----
-
-### 11. **Title** 
-
-**Author:**
-Rotondi, Carmen
-
-**Abstract:**
-In the 
-
-<p>&nbsp;</p>
-
----
