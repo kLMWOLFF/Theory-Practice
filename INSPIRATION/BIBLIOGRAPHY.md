@@ -63,3 +63,4 @@ Riverside Architectural Press, 2011
 
 29. FRIESEN, Rebecca Fenton and VARDAR, Yasemin, 2024. Perceived Realism of Virtual Textures Rendered by a Vibrotactile Wearable Ring Display. IEEE Transactions on Haptics. Vol. 17, no. 2, pp. 216–226. DOI 10.1109/TOH.2023.3304899. 
 
+30. CLASSEN, Constance (ed.), 2005. The book of touch. Oxford New York : Berg. Sensory formations series. ISBN 978-1-84520-058-9. 

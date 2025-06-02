@@ -8,7 +8,7 @@ In which ways can touchable embedded technology wearables (haptics) augment urba
 **Subjects of interest:**
 - The Poetics of Touch
 - Bodily Relationships between the practices of wearing and feeling
-- Symbiotic relashionships between Skin and Fabrics
+- Symbiotic relationships between Skin and Fabrics
 - What does it means to Inhabit a place
 - Metabolic fabrics (growing materials)
 - Urban social studies
@@ -66,10 +66,10 @@ Investigating textures, materials, and surfaces through through testing and prot
 
  ### Summer Planing:
 
-  - Readings (June - July)
-  - Writings (June - July)
-  - Observations exercises (July)
-  - Interviews (August)
+  - Readings (June - Sept)
+  - Writings (June - Oct)
+  - Observations exercises (July- August)
+  - Interviews (June - Sept)
 
   <p>&nbsp;</p>
 

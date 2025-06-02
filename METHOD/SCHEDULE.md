@@ -1,0 +1,8 @@
+- 12/09: 10,000 characters draft
+- 23/09: exhibition of research carried over the summer (fieldwork, readings, analysis of objects, interviews, etc.)
+- 10/10: 30,000 characters draft
+- 14/10: presentation writing progress I
+- 28/10: presentation writing progress II
+- 31/10: 50,000 characters FINAL THESIS
+- 25/11: Submission (printed documents + PDF version)
+- 17/02: Jury
