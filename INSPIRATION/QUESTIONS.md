@@ -125,3 +125,69 @@
 
 
 **HAPHEPHOBIA** = fear being touched
+
+----
+
+## Theme Iterations
+
+### Skin (The Medium)
+- feel
+- touch
+- Haptics
+
+       **Questions FEEL:**
+        - How we appropriate/understand things through Touch?
+                - What are the properties of the feeling of touch?
+        - What is a pleasent Touch/feel? 
+                - What kind of feel attract us?
+                - What kind of feel repel us?
+
+       **Questions TOUCH:**
+        - How many things do we touch in a day?
+        - With what kind of shapes/textures do our skin interact?
+
+       **Questions HAPTICS:**
+        - 
+
+
+### Human Relationships (The Meaning)
+- Communication
+- Space
+- stories
+- feelings
+
+       **Questions COMMUNICATION:**
+        - In how many ways can we communicate through Touch?
+        - 
+
+       **Questions SPACE:**
+        - How we percieve the space around us through touch properties?
+
+       **Questions STORIES:**
+        - 
+
+       **Questions FEELINGS:**
+        - How we percieve the space around us through touch properties?
+
+
+### Augmented Touch (The )
+- Augmented Feel
+- Augmented Feeling
+- Haptic Poetry
+
+       **Questions AUGMENTES FEEL:**
+        - How can we enrich everyday experiences throught touch?
+        - How to use touch to root people in the present/ reduce anxiety?
+
+
+----
+
+#### Refs:
+**Studios**
+- Pauline Van Dogen
+- Soft Matters
+- Superflux (how do they go about projects)
+
+**Books**
+- Design Noir 
+- Not Here, Not Now 
