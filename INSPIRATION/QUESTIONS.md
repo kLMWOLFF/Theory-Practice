@@ -171,13 +171,21 @@
 
 
 ### Augmented Touch (The )
-- Augmented Feel
-- Augmented Feeling
+- Augmented Feel (physical)
+- Augmented Feeling (emotional)
 - Haptic Poetry
 
-       **Questions AUGMENTES FEEL:**
+       **Questions AUGMENTED FEEL:**
         - How can we enrich everyday experiences throught touch?
-        - How to use touch to root people in the present/ reduce anxiety?
+        - How to use touch to root people to the place they are (shared feel)
+
+       **Questions AUGMENTED FEELING:**
+        - How to use touch to share emotions, memories, perceptions?
+        -
+
+       **Questions HAPTIC POETRY:**
+        - What is haptic poetry?
+        - 
 
 
 ----
