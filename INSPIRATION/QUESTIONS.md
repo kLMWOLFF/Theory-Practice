@@ -193,6 +193,10 @@
 #### Refs:
 **Studios**
 - Pauline Van Dogen
+  *Body Wonders (haptic technology for counicating throught touch)
+  *Be-Tween (material research)
+  *Flip-Dot dress (magnetize, interactive, sound performance)
+
 - Soft Matters
 - Superflux (how do they go about projects)
 
