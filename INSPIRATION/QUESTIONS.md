@@ -196,6 +196,7 @@
   *Body Wonders (haptic technology for counicating throught touch)
   *Be-Tween (material research)
   *Flip-Dot dress (magnetize, interactive, sound performance)
+  *
 
 - Soft Matters
   *SoftWEAR (soft actuators for wearables)
