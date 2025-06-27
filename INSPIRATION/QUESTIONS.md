@@ -185,7 +185,7 @@
 
        **Questions HAPTIC POETRY:**
         - What is haptic poetry?
-        - 
+        - Memory is sometimes nothing more than sensations, colours, rhythms and sounds that surface in our consciousness
 
 
 ----
@@ -198,6 +198,9 @@
   *Flip-Dot dress (magnetize, interactive, sound performance)
 
 - Soft Matters
+  *SoftWEAR (soft actuators for wearables)
+  *Gossamer Timescapes (self-actuated textiles for home)
+
 - Superflux (how do they go about projects)
 
 **Books**
