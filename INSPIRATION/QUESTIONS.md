@@ -144,7 +144,7 @@
 
        **Questions TOUCH:**
         - How many things do we touch in a day?
-        - With what kind of shapes/textures do our skin interact?
+        - What kind of shapes/textures do our skin interact with?
 
        **Questions HAPTICS:**
         - 
@@ -185,7 +185,8 @@
 
        **Questions HAPTIC POETRY:**
         - What is haptic poetry?
-        - Memory is sometimes nothing more than sensations, colours, rhythms and sounds that surface in our consciousness
+        - Can we 
+        - Memory as sensation, temperature, rhythm that surface in our consciousness
 
 
 ----
